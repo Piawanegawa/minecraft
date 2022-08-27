@@ -1,4 +1,4 @@
-remote-theme:  minima
+theme:  minima
 
 minima:
   skin: dark
